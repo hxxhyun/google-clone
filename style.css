@@ -1,0 +1,136 @@
+header {
+  text-align: right;
+}
+
+a {
+  margin: 10px;
+}
+
+a img {
+  position: relative;
+  top: 5px;
+  width: 20px;
+}
+
+.sign-in {
+  background-color: #1a73e8;
+  color: white;
+  padding: 9px 23px;
+  border-radius: 4px;
+}
+
+header {
+  margin-top: 20px;
+}
+
+.logo-box {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.logo-box img {
+  width: 200px;
+}
+
+.input-box {
+  text-align: center;
+  margin: 10px 0 10px 0;
+}
+
+.input input {
+  width: 400px;
+  height: 30px;
+  padding-left: 23px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.input {
+  position: relative;
+  display: inline-block;
+}
+
+.search-icon {
+  position: absolute;
+  left: 5px;
+  width: 15px;
+  height: 15px;
+  margin-top: 10px;
+}
+
+.mic-icon {
+  position: absolute;
+  right: 25px;
+  width: 15px;
+  height: 15px;
+  margin-top: 10px;
+}
+
+.picture-icon {
+  position: absolute;
+  right: 5px;
+  width: 15px;
+  height: 15px;
+  margin-top: 10px;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  padding: 5px 8px;
+  background-color: lightgray;
+  font-size: 12px;
+  border-radius: 2px;
+}
+
+.offer {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+
+.offer p {
+  padding: 5px 10px;
+  background-color: lightgray;
+  font-size: 12px;
+  border-radius: 2px;
+}
+
+.offer a {
+  color: blue;
+}
+
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: lightgray;
+}
+
+footer div {
+  padding: 15px 15px;
+}
+
+.location {
+  border-bottom: 1px solid black;
+}
+
+.etc {
+  display: flex;
+  justify-content: space-between;
+}
+
+.etc .ul-1 > li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.etc .ul-2 > li {
+  display: inline;
+  margin-left: 20px;
+}

@@ -19,7 +19,9 @@
 
 ## 설치 방법
 
-1.
+1. 터미널 실행
+2. git clone https://github.com/hxxhyun/google-clone 명령어 입력
+3. index.html 실행 or Live server 응용프로그램 통해서 실행
 
 ### 1. Header(Nav)
 
